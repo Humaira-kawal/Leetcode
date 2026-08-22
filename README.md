@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0998-maximum-binary-tree-ii](https://github.com/Humaira-kawal/Leetcode/tree/master/0998-maximum-binary-tree-ii) |
 | [1361-validate-binary-tree-nodes](https://github.com/Humaira-kawal/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Depth-First Search
 |  |
@@ -83,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0998-maximum-binary-tree-ii](https://github.com/Humaira-kawal/Leetcode/tree/master/0998-maximum-binary-tree-ii) |
 | [1361-validate-binary-tree-nodes](https://github.com/Humaira-kawal/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 <!---LeetCode Topics End-->
