@@ -60,4 +60,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Humaira-kawal/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Tree
+|  |
+| ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/Humaira-kawal/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/Humaira-kawal/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/Humaira-kawal/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+## Union-Find
+|  |
+| ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/Humaira-kawal/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+## Graph Theory
+|  |
+| ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/Humaira-kawal/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/Humaira-kawal/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 <!---LeetCode Topics End-->
