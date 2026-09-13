@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Humaira-kawal/Leetcode/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Humaira-kawal/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Humaira-kawal/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Humaira-kawal/Leetcode/tree/master/1872-stone-game-viii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Humaira-kawal/Leetcode/tree/master/0835-image-overlap) |
 | [2906-construct-product-matrix](https://github.com/Humaira-kawal/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Humaira-kawal/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
