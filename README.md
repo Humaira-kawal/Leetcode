@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Humaira-kawal/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0513-find-bottom-left-tree-value](https://github.com/Humaira-kawal/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1361-validate-binary-tree-nodes](https://github.com/Humaira-kawal/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Humaira-kawal/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Humaira-kawal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Humaira-kawal/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Humaira-kawal/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/Humaira-kawal/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Humaira-kawal/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Humaira-kawal/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Humaira-kawal/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Humaira-kawal/Leetcode/tree/master/0273-integer-to-english-words) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Humaira-kawal/Leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Humaira-kawal/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
