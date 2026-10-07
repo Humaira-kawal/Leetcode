@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Humaira-kawal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0835-image-overlap](https://github.com/Humaira-kawal/Leetcode/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Humaira-kawal/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Humaira-kawal/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Humaira-kawal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Humaira-kawal/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Humaira-kawal/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Humaira-kawal/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -237,4 +239,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Humaira-kawal/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Humaira-kawal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Humaira-kawal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Humaira-kawal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
