@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Humaira-kawal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Humaira-kawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Humaira-kawal/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0835-image-overlap](https://github.com/Humaira-kawal/Leetcode/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Humaira-kawal/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Humaira-kawal/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Humaira-kawal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Humaira-kawal/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Humaira-kawal/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Quickselect
 |  |
 | ------- |
